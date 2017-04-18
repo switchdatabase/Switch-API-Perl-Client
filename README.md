@@ -1,4 +1,4 @@
-# NAME
+# Switch Database REST API Perl client
 
 WWW::SwaggerClient::Role - a Moose role for the Switch Database REST API
 
@@ -297,8 +297,7 @@ Class | Method | HTTP request | Description
  - [WWW::SwaggerClient::Object::ListOrder](docs/ListOrder.md)
  - [WWW::SwaggerClient::Object::SetResponse](docs/SetResponse.md)
  - [WWW::SwaggerClient::Object::WhereItem](docs/WhereItem.md)
+ 
+## Authors
 
-
-# DOCUMENTATION FOR AUTHORIZATION
- All endpoints do not require authorization.
-
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
